@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+title: Angelo Gnazzo
+##logo: "/images/me.png"
+email: angelognazzo@hotmail.it
+description: Mathematics Student @ ETH Zurich.
+plugins:
+  - jemoji
