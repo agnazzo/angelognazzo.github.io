@@ -1,12 +1,17 @@
 # Ciao
 I am Angelo, 22 years old, from Olbia, in Italy.
+In 2018 I moved to Milan to study Mathematical Engineering at @ Politecnico di Milano. I got my Bachelor of Science Degree with the grade of 110/110 cum laude, the highest distinction awarded. 
+I am currently pursuing my MSc degree in Mathematics at @ ETH Zurich, focusing on the area of "Mathematics of Data Science", which involves focusing on Statistics, Probability and Combinatorics, Machine Learning.
+At the moment, I am Research Intern at @ ETH AI Center, focusing on problems at the intersection of Differential Privacy and Online Learning. 
 
-You can use the [editor on GitHub](https://github.com/agnazzo/angelognazzo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In this page I will collect some bits of my academic and job career, and whatever I’d like to share with the rest of the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### News
+- June 2022: I started working at @ ETH AI Center!
+- June 2022: I finished and submitted my first research paper, titled "Generalization Error Bound via Information-Theoretic Methods and Convex Analysis". I worked under the supervision of Dr. Nikita Zhivotovskiy (now Assistant Professor at @ University of California, Berkeley) and Prof. Dr. Afonso Bandeira (Professor of Mathematics at @ ETH Zurich). See the work at : https://github.com/angelognazzo/semester-project
 
-### Markdown
 
+"""
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -27,7 +32,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)."""
 
 ### Jekyll Themes
 
