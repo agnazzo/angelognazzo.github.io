@@ -8,36 +8,9 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 ### News
 - June 2022: I started working at @ ETH AI Center!
-- June 2022: I finished and submitted my first research paper, titled "Generalization Error Bound via Information-Theoretic Methods and Convex Analysis". I worked under the supervision of Dr. Nikita Zhivotovskiy (now Assistant Professor at @ University of California, Berkeley) and Prof. Dr. Afonso Bandeira (Professor of Mathematics at @ ETH Zurich). See the work at : https://github.com/angelognazzo/semester-project
+- June 2022: I finished and submitted my first research paper, titled "Generalization Error Bound via Information-Theoretic Methods and Convex Analysis". I worked under the supervision of Dr. Nikita Zhivotovskiy (now Assistant Professor at @ University of California, Berkeley) and Prof. Dr. Afonso Bandeira (Professor of Mathematics at @ ETH Zurich). See the [work](https://github.com/angelognazzo/semester-project)
+- September 2021: I started my MSc in Mathematics at @ ETH Zurich!
+- July 2021: I graduated from @ Politecnico of Milano, obtaining my BSc degree in Mathematical Engineering with the grade of 110/110 cum laude.
 
 
-"""
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)."""
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agnazzo/angelognazzo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
